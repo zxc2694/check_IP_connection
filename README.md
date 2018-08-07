@@ -2,4 +2,5 @@
 Based on Linux.
 
 $ g++ -o main main.cpp
-$./main
+
+$ ./main
